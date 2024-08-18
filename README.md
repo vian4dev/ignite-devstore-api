@@ -1,15 +1,15 @@
 <div align="center">
-  <a href="https://github.com/vian4dev/devstore/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/vian4dev/devstore?style=social">
+  <a href="https://github.com/vian4dev/ignite-devstore-api/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/vian4dev/ignite-devstore-api?style=social">
   </a>
   
   <img alt="PRs welcome!" src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=7159c1&labelColor=000000" />
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=7159c1&labelColor=000000">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/vian4dev/devstore?color=%2304D361">
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/vian4dev/devstore">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/vian4dev/ignite-devstore-api?color=%2304D361">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/vian4dev/ignite-devstore-api">
 	
-  <a href="https://github.com/vian4dev/devstore/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/vian4dev/devstore">
+  <a href="https://github.com/vian4dev/ignite-devstore-api/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/vian4dev/ignite-devstore-api">
   </a>
   
   <a href="https://www.linkedin.com/in/vianadev/">
