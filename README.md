@@ -46,7 +46,7 @@ Copie o link.
 ~~~
 https://ignite-devstore-api-d9gl-ja4s9bmxd-vian4devs-projects.vercel.app/
 ~~~
-Cole no .env do diretorio raiz da aplicação [Devstore](https://github.com/vian4dev/devstore).
+Cole no .env.local da aplicação [Devstore](https://github.com/vian4dev/devstore).
 ~~~
 NEXT_PUBLIC_API_BASE_URL="https://ignite-devstore-api-d9gl.vercel.app"
 ~~~
