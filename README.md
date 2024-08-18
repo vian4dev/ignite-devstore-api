@@ -38,7 +38,7 @@
 ## 📷 Demostração
 Apresentação da tela do aplicativo.
 <div align="center">
-  <img src="./.github/devstore-api.png" alt="devstore" />
+  <img src="./.github/ignite-devstore-api.png" alt="ignite-devstore-api.png" />
 </div>
 
 ## 🔥 Instalação
@@ -46,7 +46,7 @@ Copie o link.
 ~~~
 https://ignite-devstore-api-d9gl-ja4s9bmxd-vian4devs-projects.vercel.app/
 ~~~
-Cole no .env do diretorio raiz.
+Cole no .env do diretorio raiz da aplicação [Devstore](https://github.com/vian4dev/devstore).
 ~~~
 NEXT_PUBLIC_API_BASE_URL="https://ignite-devstore-api-d9gl.vercel.app"
 ~~~
